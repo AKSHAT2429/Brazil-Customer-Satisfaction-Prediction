@@ -1,4 +1,3 @@
-```markdown
 # Customer Satisfaction Enhancement in Brazilian E-Commerce
 
 ## Overview
@@ -6,7 +5,7 @@
 In the rapidly evolving landscape of online shopping, understanding and improving customer satisfaction are paramount for long-term business growth. This project delves into the Brazilian E-Commerce Public Dataset from 2016 to 2018, employing advanced techniques and machine learning to extract insights that can positively impact customer experiences. The primary goal is to provide online businesses with practical information to enhance customer happiness.
 
 ## Table of Contents
-1. [Introduction](#Introduction)
+1. [Introduction](#introduction)
 2. [Dataset Description and Preprocessing](#dataset-description-and-preprocessing)
 3. [Data Visualization](#data-visualization)
 4. [Structuring Data for Model Performance](#structuring-data-for-better-model-performance)
@@ -65,4 +64,3 @@ In conclusion, this project provides practical insights for online businesses to
 5. Refer to the project report for detailed insights and findings.
 
 Feel free to reach out for any questions or collaborations. Happy coding! 🚀
-```
